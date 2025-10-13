@@ -1,5 +1,5 @@
 # Deep Learning Tool for Rocket League Cheaters
-## RankGuesser
+## Rank Finder
 <p align="center">
   <img src="models/ballsnet/ballsnet_74.png">
 </p>

@@ -1,4 +1,4 @@
-# Deep Learning Tools for Rocket League
+# Deep Learning Tool for Rocket League Cheaters
 ## RankGuesser
 <p align="center">
   <img src="models/ballsnet/ballsnet_74.png">
@@ -12,6 +12,6 @@
 </a>
 
 ## Reason for creating
-Me and a friend created this for a leage where cheeters ran rampent. We wanted to find a way to catch cheeters that were playing in a rank below their actual and thus created this model to identify those who were cheating.
+Me and a friend created this for Rocket League. A game where cheeters ran rampent. We wanted to find a way to catch cheeters that were playing in a rank below their actual called "smirfing" and thus trained this model to identify those cheaters.
 
 

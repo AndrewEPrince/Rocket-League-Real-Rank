@@ -1,4 +1,4 @@
-# Deep Learning Tool for Rocket League Cheaters
+# Deep Learning Tool for Cheaters in Discord Rocket League Leagues
 ## Rank Finder
 <p align="center">
   <img src="models/ballsnet/ballsnet_74.png">
